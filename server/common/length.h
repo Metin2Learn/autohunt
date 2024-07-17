@@ -1,0 +1,4 @@
+//Under:
+	PREMIUM_GOLD,
+//Add:
+	PREMIUM_AUTOHUNT,

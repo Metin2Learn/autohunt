@@ -1,0 +1,4 @@
+//Under:
+	AFFECT_GOLD_BONUS		= 506,
+//Add:
+	AFFECT_AUTOHUNT		= 507,

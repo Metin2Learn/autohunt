@@ -1,0 +1,18 @@
+AUTO_AUTO_ATTACK	Attack
+AUTO_AUTO_POSITION	Potions
+AUTO_AUTO_SKILL	Skills
+AUTO_CLEAR	Clear
+AUTO_END	Stop
+AUTO_OFF	Off
+AUTO_ON	On
+AUTO_POSITION_SETTING	Potions
+AUTO_SETTING	Settings
+AUTO_SKILL_SETTING	Skills
+AUTO_START	Start
+AUTO_TITLE	Auto-Hunting
+AUTO_TOOLTIP_LINE1	Skills: Select skills for combat and drag them into the slots. (Premium)
+AUTO_TOOLTIP_LINE2	Hint: You can change the activation interval (in seconds) below each skill.
+AUTO_TOOLTIP_LINE3	Potions: Select potions for combat and drag them into the slots. (Premium)
+AUTO_TOOLTIP_LINE4	Hint: HP and SP potions will be activated as soon as the level falls below the % value shown below each potion.
+AUTO_TOOLTIP_LINE5	Hint: The duration of other potions is given in seconds.
+AUTO_TOOLTIP_TITLE	Auto-Hunting Help
